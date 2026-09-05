@@ -1,0 +1,6 @@
+{
+  "name": "Smash Carts Arena",
+  "description": "Action-packed multiplayer kart smash arena with powers, multiple colorful tracks, 1-4 players vs balanced AI, real-time scoring, and match history stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
